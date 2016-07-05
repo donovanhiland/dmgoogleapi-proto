@@ -9,7 +9,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "googleapis": "^9.0.0"
+    "body-parser": "^1.15.2",
+    "cors": "^2.7.1",
+    "express": "^4.14.0",
+    "express-session": "^1.14.0",
+    "google-calendar-gaurav": "^1.0.0",
+    "googleapis": "^9.0.0",
+    "passport": "^0.3.2",
+    "passport-google": "^0.3.0",
+    "passport-google-oauth": "^1.0.0",
+    "passport-google-oauth20": "^1.0.0"
   },
   "devDependencies": {
     "babel-core": "^6.10.4",
